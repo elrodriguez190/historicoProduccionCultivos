@@ -1,0 +1,725 @@
+[
+ {
+   "cultivo": "ACELGA"
+ },
+ {
+   "cultivo": "ACHIN"
+ },
+ {
+   "cultivo": "ACHIOTE (BIJA)"
+ },
+ {
+   "cultivo": "ACHIRA"
+ },
+ {
+   "cultivo": "AGRAZ"
+ },
+ {
+   "cultivo": "AGUACATE"
+ },
+ {
+   "cultivo": "AGUAJE"
+ },
+ {
+   "cultivo": "AHUYAMA"
+ },
+ {
+   "cultivo": "AJI DULCE"
+ },
+ {
+   "cultivo": "AJI TABASCO"
+ },
+ {
+   "cultivo": "AJI"
+ },
+ {
+   "cultivo": "AJO"
+ },
+ {
+   "cultivo": "AJONJOLI"
+ },
+ {
+   "cultivo": "ALBAHACA"
+ },
+ {
+   "cultivo": "ALFALFA"
+ },
+ {
+   "cultivo": "ALGARROBO - FRUTO FRESCO"
+ },
+ {
+   "cultivo": "ALGODON"
+ },
+ {
+   "cultivo": "ANIS - SEMILLA SECA"
+ },
+ {
+   "cultivo": "ANON"
+ },
+ {
+   "cultivo": "ANTURIO"
+ },
+ {
+   "cultivo": "APIO"
+ },
+ {
+   "cultivo": "ARANDANO"
+ },
+ {
+   "cultivo": "ARAZA"
+ },
+ {
+   "cultivo": "ARRACACHA"
+ },
+ {
+   "cultivo": "ARROZ RIEGO"
+ },
+ {
+   "cultivo": "ARROZ SECANO MANUAL"
+ },
+ {
+   "cultivo": "ARROZ SECANO MECANIZADO"
+ },
+ {
+   "cultivo": "ARVEJA"
+ },
+ {
+   "cultivo": "ASAI"
+ },
+ {
+   "cultivo": "ASPARRAGUS"
+ },
+ {
+   "cultivo": "ASTROMELIA"
+ },
+ {
+   "cultivo": "AVENA"
+ },
+ {
+   "cultivo": "BACURI"
+ },
+ {
+   "cultivo": "BADEA"
+ },
+ {
+   "cultivo": "BANANITO"
+ },
+ {
+   "cultivo": "BANANO MANZANO"
+ },
+ {
+   "cultivo": "BANANO"
+ },
+ {
+   "cultivo": "BANANO EXPORTACION"
+ },
+ {
+   "cultivo": "BATATA"
+ },
+ {
+   "cultivo": "BERENJENA"
+ },
+ {
+   "cultivo": "BORE"
+ },
+ {
+   "cultivo": "BOROJO"
+ },
+ {
+   "cultivo": "BREVO"
+ },
+ {
+   "cultivo": "BROCOLI"
+ },
+ {
+   "cultivo": "CACAO"
+ },
+ {
+   "cultivo": "CACHACO"
+ },
+ {
+   "cultivo": "CADUCIFOLIOS"
+ },
+ {
+   "cultivo": "CAFE"
+ },
+ {
+   "cultivo": "CAIMO"
+ },
+ {
+   "cultivo": "CALABACIN"
+ },
+ {
+   "cultivo": "CANYARANA"
+ },
+ {
+   "cultivo": "CARDAMOMO"
+ },
+ {
+   "cultivo": "CARTUCHO-ASTROMELIA"
+ },
+ {
+   "cultivo": "CAUCHO"
+ },
+ {
+   "cultivo": "CAÑA PANELERA"
+ },
+ {
+   "cultivo": "CAÑA AZUCARERA"
+ },
+ {
+   "cultivo": "CAÑA FLECHA"
+ },
+ {
+   "cultivo": "CAÑA MIEL"
+ },
+ {
+   "cultivo": "CEBADA"
+ },
+ {
+   "cultivo": "CEBOLLA DE BULBO"
+ },
+ {
+   "cultivo": "CEBOLLA DE RAMA"
+ },
+ {
+   "cultivo": "CEBOLLIN"
+ },
+ {
+   "cultivo": "CENTENO"
+ },
+ {
+   "cultivo": "CHACHAFRUTO"
+ },
+ {
+   "cultivo": "CHAMBA"
+ },
+ {
+   "cultivo": "CHIRIMOYA"
+ },
+ {
+   "cultivo": "CHIRO"
+ },
+ {
+   "cultivo": "CHOLUPA"
+ },
+ {
+   "cultivo": "CHONQUE"
+ },
+ {
+   "cultivo": "CHONTADURO"
+ },
+ {
+   "cultivo": "CILANTRO"
+ },
+ {
+   "cultivo": "CIMARRON"
+ },
+ {
+   "cultivo": "CIRUELA"
+ },
+ {
+   "cultivo": "CITRICOS"
+ },
+ {
+   "cultivo": "CLAVEL"
+ },
+ {
+   "cultivo": "COCO"
+ },
+ {
+   "cultivo": "COCONA"
+ },
+ {
+   "cultivo": "COL"
+ },
+ {
+   "cultivo": "COLIFLOR"
+ },
+ {
+   "cultivo": "COPOAZU"
+ },
+ {
+   "cultivo": "COROZO"
+ },
+ {
+   "cultivo": "CURCUMA"
+ },
+ {
+   "cultivo": "CURUBA"
+ },
+ {
+   "cultivo": "DATIL"
+ },
+ {
+   "cultivo": "DURAZNO"
+ },
+ {
+   "cultivo": "ENELDO"
+ },
+ {
+   "cultivo": "ESPARRAGO"
+ },
+ {
+   "cultivo": "ESPARTO"
+ },
+ {
+   "cultivo": "ESPINACA"
+ },
+ {
+   "cultivo": "ESTROPAJO"
+ },
+ {
+   "cultivo": "EUCALIPTO BABY BLUE"
+ },
+ {
+   "cultivo": "FEIJOA"
+ },
+ {
+   "cultivo": "FIQUE"
+ },
+ {
+   "cultivo": "FLORES Y FOLLAJES"
+ },
+ {
+   "cultivo": "FLOR DE JAMAICA"
+ },
+ {
+   "cultivo": "FRAMBUESA"
+ },
+ {
+   "cultivo": "FRESA"
+ },
+ {
+   "cultivo": "FRIJOL ARBUSTIVO"
+ },
+ {
+   "cultivo": "FRIJOL"
+ },
+ {
+   "cultivo": "FRIJOL LADERA"
+ },
+ {
+   "cultivo": "FRIJOL PLANA"
+ },
+ {
+   "cultivo": "FRIJOL VOLUBLE"
+ },
+ {
+   "cultivo": "FRUTALES VARIOS"
+ },
+ {
+   "cultivo": "GARBANZO"
+ },
+ {
+   "cultivo": "GIRASOL"
+ },
+ {
+   "cultivo": "GLADIOLO"
+ },
+ {
+   "cultivo": "GRANADILLA"
+ },
+ {
+   "cultivo": "GUAMA"
+ },
+ {
+   "cultivo": "GUANABANA"
+ },
+ {
+   "cultivo": "GUANDUL"
+ },
+ {
+   "cultivo": "GUATILA"
+ },
+ {
+   "cultivo": "GUAYABA"
+ },
+ {
+   "cultivo": "GUAYABA MANZANA"
+ },
+ {
+   "cultivo": "GUAYABA PERA"
+ },
+ {
+   "cultivo": "GULUPA"
+ },
+ {
+   "cultivo": "HABA"
+ },
+ {
+   "cultivo": "HABICHUELA"
+ },
+ {
+   "cultivo": "HELECHO"
+ },
+ {
+   "cultivo": "HELECHO CUERO"
+ },
+ {
+   "cultivo": "HELICONIA"
+ },
+ {
+   "cultivo": "HIERBABUENA"
+ },
+ {
+   "cultivo": "HIGO"
+ },
+ {
+   "cultivo": "HIGUERILLA"
+ },
+ {
+   "cultivo": "HORTALIZAS VARIAS"
+ },
+ {
+   "cultivo": "HORTENSIA"
+ },
+ {
+   "cultivo": "IRACA"
+ },
+ {
+   "cultivo": "JATROPHA"
+ },
+ {
+   "cultivo": "JENGIBRE"
+ },
+ {
+   "cultivo": "LAUREL"
+ },
+ {
+   "cultivo": "LECHUGA"
+ },
+ {
+   "cultivo": "LIMA TAHITI"
+ },
+ {
+   "cultivo": "LIMA"
+ },
+ {
+   "cultivo": "LIMON MANDARINO"
+ },
+ {
+   "cultivo": "LIMON TAHITI"
+ },
+ {
+   "cultivo": "LIMON"
+ },
+ {
+   "cultivo": "LIMONARIA"
+ },
+ {
+   "cultivo": "LIMON PAJARITO"
+ },
+ {
+   "cultivo": "LULO"
+ },
+ {
+   "cultivo": "MACADAMIA"
+ },
+ {
+   "cultivo": "MAIZ FORRAJERO"
+ },
+ {
+   "cultivo": "MAIZ TECNIFICADO"
+ },
+ {
+   "cultivo": "MAIZ TRADICIONAL"
+ },
+ {
+   "cultivo": "MALANGA"
+ },
+ {
+   "cultivo": "MAMEY"
+ },
+ {
+   "cultivo": "MAMONCILLO"
+ },
+ {
+   "cultivo": "MANDARINA"
+ },
+ {
+   "cultivo": "MANDARINA CLEMENTINA"
+ },
+ {
+   "cultivo": "MANDARINA ONECO"
+ },
+ {
+   "cultivo": "MANGO"
+ },
+ {
+   "cultivo": "MANGO INJERTO"
+ },
+ {
+   "cultivo": "MANGOSTINO"
+ },
+ {
+   "cultivo": "MANI"
+ },
+ {
+   "cultivo": "MANZANA"
+ },
+ {
+   "cultivo": "MANZANILLA"
+ },
+ {
+   "cultivo": "MARACUYA"
+ },
+ {
+   "cultivo": "MARAÑON"
+ },
+ {
+   "cultivo": "MELON"
+ },
+ {
+   "cultivo": "MENTA"
+ },
+ {
+   "cultivo": "MILLO"
+ },
+ {
+   "cultivo": "MIMBRE - FIBRA SECA"
+ },
+ {
+   "cultivo": "MORA"
+ },
+ {
+   "cultivo": "MORERA"
+ },
+ {
+   "cultivo": "MURRAPO"
+ },
+ {
+   "cultivo": "NARANJA"
+ },
+ {
+   "cultivo": "NARANJA JAFFA"
+ },
+ {
+   "cultivo": "NARANJA SALUSTIANA"
+ },
+ {
+   "cultivo": "NARANJA VALENCIA"
+ },
+ {
+   "cultivo": "NARANJA WASHINGTON NAVEL"
+ },
+ {
+   "cultivo": "NISPERO"
+ },
+ {
+   "cultivo": "NONI"
+ },
+ {
+   "cultivo": "OREGANO"
+ },
+ {
+   "cultivo": "ORELLANA"
+ },
+ {
+   "cultivo": "ORQUIDEA"
+ },
+ {
+   "cultivo": "PALMA AMARGA"
+ },
+ {
+   "cultivo": "PALMA DE ACEITE"
+ },
+ {
+   "cultivo": "PALMA ROBELINA"
+ },
+ {
+   "cultivo": "PALMITO"
+ },
+ {
+   "cultivo": "PAPA"
+ },
+ {
+   "cultivo": "PAPA CHINA"
+ },
+ {
+   "cultivo": "PAPA CRIOLLA"
+ },
+ {
+   "cultivo": "PAPAYA"
+ },
+ {
+   "cultivo": "PAPAYA HAWAIANA"
+ },
+ {
+   "cultivo": "PAPAYUELA"
+ },
+ {
+   "cultivo": "PATILLA"
+ },
+ {
+   "cultivo": "PEPA DE PAN"
+ },
+ {
+   "cultivo": "PEPINO"
+ },
+ {
+   "cultivo": "PEPINO COHOMBRO"
+ },
+ {
+   "cultivo": "PEPINO GUISO"
+ },
+ {
+   "cultivo": "PERA"
+ },
+ {
+   "cultivo": "PEREJIL"
+ },
+ {
+   "cultivo": "PIMENTON"
+ },
+ {
+   "cultivo": "PIMIENTA"
+ },
+ {
+   "cultivo": "PITAHAYA"
+ },
+ {
+   "cultivo": "PLANTAS AROMATICAS"
+ },
+ {
+   "cultivo": "PLANTAS MEDICINALES"
+ },
+ {
+   "cultivo": "PLANTULAS"
+ },
+ {
+   "cultivo": "PLATANO"
+ },
+ {
+   "cultivo": "PLATANO EXPORTACION"
+ },
+ {
+   "cultivo": "POMARROSA"
+ },
+ {
+   "cultivo": "POMELO"
+ },
+ {
+   "cultivo": "POMPON Y CRISANTEMO"
+ },
+ {
+   "cultivo": "PUERRO"
+ },
+ {
+   "cultivo": "QUINUA"
+ },
+ {
+   "cultivo": "RABANO"
+ },
+ {
+   "cultivo": "RAMBUTAN - FRUTO FRESCO"
+ },
+ {
+   "cultivo": "REMOLACHA"
+ },
+ {
+   "cultivo": "REPOLLO"
+ },
+ {
+   "cultivo": "ROMERO"
+ },
+ {
+   "cultivo": "ROSA"
+ },
+ {
+   "cultivo": "RUBA"
+ },
+ {
+   "cultivo": "RUDA"
+ },
+ {
+   "cultivo": "RUSCUS"
+ },
+ {
+   "cultivo": "SABILA"
+ },
+ {
+   "cultivo": "SACHA INCHI"
+ },
+ {
+   "cultivo": "SAGU"
+ },
+ {
+   "cultivo": "SORGO"
+ },
+ {
+   "cultivo": "SOYA"
+ },
+ {
+   "cultivo": "STEVIA"
+ },
+ {
+   "cultivo": "TABACO NEGRO"
+ },
+ {
+   "cultivo": "TABACO RUBIO"
+ },
+ {
+   "cultivo": "TAMARINDO"
+ },
+ {
+   "cultivo": "TANGARANA"
+ },
+ {
+   "cultivo": "TANGELO MINEOLA"
+ },
+ {
+   "cultivo": "TANGELO ORLANDO"
+ },
+ {
+   "cultivo": "TOMATE"
+ },
+ {
+   "cultivo": "TOMATE DE ARBOL"
+ },
+ {
+   "cultivo": "TOMATE INVERNADERO"
+ },
+ {
+   "cultivo": "TOMILLO"
+ },
+ {
+   "cultivo": "TREE FERN"
+ },
+ {
+   "cultivo": "TRIGO"
+ },
+ {
+   "cultivo": "UCHUVA"
+ },
+ {
+   "cultivo": "ULLUCO"
+ },
+ {
+   "cultivo": "UMARI"
+ },
+ {
+   "cultivo": "UVA"
+ },
+ {
+   "cultivo": "UVA CAIMARONA"
+ },
+ {
+   "cultivo": "VAINILLA"
+ },
+ {
+   "cultivo": "YACON"
+ },
+ {
+   "cultivo": "YUCA"
+ },
+ {
+   "cultivo": "YUCA INDUSTRIAL"
+ },
+ {
+   "cultivo": "ZANAHORIA"
+ },
+ {
+   "cultivo": "ZAPOTE"
+ }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no">
+    <title>HISTORICO DE CULTIVOS EN COLOMBIA</title>
+
+    <link rel="stylesheet" href="https://js.arcgis.com/3.27/dijit/themes/claro/claro.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css">
+    <link rel="stylesheet" href="https://js.arcgis.com/3.27/esri/css/esri.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://js.arcgis.com/3.27/"></script>
+    <script src="js/main.js" charset="utf-8"></script>
+  </head>
+  <body class="claro">
+
+    <div id="mapDiv">
+
+      <div id="bottomPanel">
+        <div id="legendDiv"></div>
+        <div id="timeInfo">
+          <div id="timeSliderDiv"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="infoDiv">
+          Escoge el cultivo que deseas consultar:
+          <div class="field">
+            <div class="control">
+              <div class="select is-primary">
+                <select id="filter" onchange="cambiar();">
+                </select>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+
+  </body>
+</html>

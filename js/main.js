@@ -1,6 +1,6 @@
 
 var cultivos = [];
-var seleccionado;
+
 axios.get('http://localhost:8080/minAgricultura/convertcsv.json')
   .then(function (response) {
     cultivos = response.data;
@@ -20,10 +20,12 @@ var layerDefs = [];
 var layerD;
 
 function cambiar(){
-  if (map && timeS) {
-    timeS.destroy();
-      map.destroy();
+  if (opLayer!=null) {
+      opLayer=null;
+      timeS=null;
   }
+
+var seleccionado;
     require([
       "esri/map",
       "esri/layers/ArcGISDynamicMapServiceLayer",

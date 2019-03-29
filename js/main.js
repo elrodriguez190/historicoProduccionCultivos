@@ -13,12 +13,12 @@ axios.get('http://localhost:8080/minAgricultura/convertcsv.json')
     }
     });
 
-var map;
+
 var opLayer;
 
 var layerDefs = [];
 var layerD;
-
+var map;
 function cambiar(){
   if (opLayer!=null) {
       opLayer=null;
